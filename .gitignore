@@ -1,0 +1,9 @@
+cache_dir/
+catboost_info/
+data/train_embeddings.csv
+data/test_embeddings.csv
+predictions/
+__pycache__/
+runs/
+server/
+storage/
