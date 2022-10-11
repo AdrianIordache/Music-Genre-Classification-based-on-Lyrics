@@ -7,13 +7,15 @@
 
 ### 2. Semantic Structure
 
-***To be able able to extract and quantify various semantinc relations from the lyrics we will try to use SOTA transformer models***
+***To be able able to extract and quantify various semantinc relations from lyrics, we use SOTA transformer models***
 
 ### 3. Lyrics Similarity 
 
-***For lyrics similarity we will use a pretrained transformer model for extracting similarity embeddings between lyrics***
+***For lyrics similarity, we use a pretrained transformer model for extracting similarity embeddings between lyrics***
 
-The final solution presents a voting system between various Machine Learning algorithms and Transformer Models over different inputs.
+# Final Solution
+
+Voting system between various Machine Learning algorithms and Transformer Models over different inputs.
 
 # Models 
 
@@ -31,6 +33,6 @@ The final solution presents a voting system between various Machine Learning alg
 - [stsb-roberta-large](https://huggingface.co/sentence-transformers/stsb-roberta-large) 
 
 # Ensembling Methods
-- [x] **Voting system** (Final Solution)
+- [x] **Voting system (Final Solution)**
 - [x] Weighted voting system
 - [x] Stacking
